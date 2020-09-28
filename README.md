@@ -1,4 +1,4 @@
-# Powerful-Graph-Embedder-preserves-orits-and-orders
+# Powerful-Graph-Embedder-preserves-orbits-and-orders
 The rest of project and theory will be added Soon..
 
 
